@@ -2,7 +2,7 @@
 // @name         HH Remove Mythic books and gifts
 // @namespace    http://tampermonkey.net/
 // @version      0.1
-// @description  Delete Mythic books and gifts on the market in the Hentai Heroes game
+// @description  Remove Mythic books and gifts on the market in the Hentai Heroes game
 // @author       -MM-
 // @match        https://www.hentaiheroes.com/shop.html*
 // @match        https://nutaku.haremheroes.com/shop.html*
