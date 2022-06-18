@@ -3,7 +3,7 @@
 // @version      0.1
 // @description  Remove Mythic books and gifts on the market in the Hentai Heroes game
 // @author       -MM-
-// @match        https://www.hentaiheroes.com/shop.html*
+// @match        https://*.hentaiheroes.com/shop.html*
 // @match        https://nutaku.haremheroes.com/shop.html*
 // @run-at       document-end
 // @namespace    https://github.com/HH-GAME-MM/HH-Remove-Mythic-books-and-gifts
