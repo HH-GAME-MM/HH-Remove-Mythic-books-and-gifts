@@ -1,6 +1,6 @@
 // ==UserScript==
 // @name         HH Remove Mythic books and gifts
-// @version      0.1
+// @version      0.2
 // @description  Remove Mythic books and gifts on the market in the Hentai Heroes game
 // @author       -MM-
 // @match        https://*.hentaiheroes.com/shop.html*
