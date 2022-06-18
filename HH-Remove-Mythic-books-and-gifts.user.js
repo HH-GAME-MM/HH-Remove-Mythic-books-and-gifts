@@ -8,8 +8,8 @@
 // @match        https://nutaku.haremheroes.com/shop.html*
 // @run-at       document-end
 // @namespace    https://github.com/HH-GAME-MM/HH-Remove-Mythic-books-and-gifts
-// @updateURL    https://github.com/HH-GAME-MM/HH-Remove-Mythic-books-and-gifts/main/dist/HH-Remove-Mythic-books-and-gifts.user.js
-// @downloadURL  https://github.com/HH-GAME-MM/HH-Remove-Mythic-books-and-gifts/main/dist/HH-Remove-Mythic-books-and-gifts.user.js
+// @updateURL    https://github.com/HH-GAME-MM/HH-Remove-Mythic-books-and-gifts/raw/main/HH-Remove-Mythic-books-and-gifts.user.js
+// @downloadURL  https://github.com/HH-GAME-MM/HH-Remove-Mythic-books-and-gifts/raw/main/HH-Remove-Mythic-books-and-gifts.user.js
 // @icon         https://www.google.com/s2/favicons?sz=64&domain=hentaiheroes.com
 // @grant        none
 // ==/UserScript==
